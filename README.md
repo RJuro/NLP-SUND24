@@ -1,5 +1,8 @@
 # NLP-SUND24
 
+If you want to follow the tutorials, get an account on https://www.together.ai - and an API key from there - FREE 5$ - enough for lots of LLM stuff.
+
+
 | Title | Open in Colab |
 | --- | --- |
 | 🐍 Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RJuro/RPAI2024/blob/main/00_python_refresher.ipynb) |
